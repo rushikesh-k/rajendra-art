@@ -1,2 +1,2 @@
-# ranjendra-art
+# rajendra-art
 Rajendra Art Website
